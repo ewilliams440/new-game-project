@@ -1,0 +1,20 @@
+[remap]
+
+importer="texture_atlas"
+type="Texture2D"
+uid="uid://8103n76dy4gm"
+path="res://.godot/imported/four.png-8761f37a67f488f2f091af79bf81dc48.res"
+group_file="res://minesweeper_atlas.png"
+valid=true
+[deps]
+
+
+source_file="res://new game art/minesweeper/four.png"
+dest_files=["res://.godot/imported/four.png-8761f37a67f488f2f091af79bf81dc48.res"]
+
+[params]
+
+atlas_file="res://minesweeper_atlas.png"
+import_mode=0
+crop_to_region=false
+trim_alpha_border_from_region=true

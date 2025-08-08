@@ -1,0 +1,20 @@
+[remap]
+
+importer="texture_atlas"
+type="Texture2D"
+uid="uid://bxgdmr3cf80q1"
+path="res://.godot/imported/bomb6.png-d631df73126cf53d26c06a15791bb1e8.res"
+group_file="res://minesweeper_atlas.png"
+valid=true
+[deps]
+
+
+source_file="res://new game art/minesweeper/bomb6.png"
+dest_files=["res://.godot/imported/bomb6.png-d631df73126cf53d26c06a15791bb1e8.res"]
+
+[params]
+
+atlas_file="res://minesweeper_atlas.png"
+import_mode=0
+crop_to_region=false
+trim_alpha_border_from_region=true

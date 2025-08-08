@@ -2,16 +2,16 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://i2qb23hbbf82"
-path="res://.godot/imported/flagged.png-7883bb03ad9769382c6ca47e865c0b2a.ctex"
+uid="uid://vwe75yg6shyk"
+path="res://.godot/imported/minesweeper_atlas.png-77df6c0cff52b6ebe9b7d27dce9ba46e.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://new game art/flagged.png"
-dest_files=["res://.godot/imported/flagged.png-7883bb03ad9769382c6ca47e865c0b2a.ctex"]
+source_file="res://minesweeper_atlas.png"
+dest_files=["res://.godot/imported/minesweeper_atlas.png-77df6c0cff52b6ebe9b7d27dce9ba46e.ctex"]
 
 [params]
 

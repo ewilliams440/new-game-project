@@ -1,0 +1,20 @@
+[remap]
+
+importer="texture_atlas"
+type="Texture2D"
+uid="uid://foqwttqjbwv8"
+path="res://.godot/imported/unclicked.png-ae3b987e22f6094ce5c9fb3257bd0c1c.res"
+group_file="res://minesweeper_atlas.png"
+valid=true
+[deps]
+
+
+source_file="res://new game art/minesweeper/unclicked.png"
+dest_files=["res://.godot/imported/unclicked.png-ae3b987e22f6094ce5c9fb3257bd0c1c.res"]
+
+[params]
+
+atlas_file="res://minesweeper_atlas.png"
+import_mode=0
+crop_to_region=false
+trim_alpha_border_from_region=true
