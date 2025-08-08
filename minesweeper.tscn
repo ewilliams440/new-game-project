@@ -1,0 +1,13 @@
+[gd_scene load_steps=3 format=3 uid="uid://112v4o3n8vis"]
+
+[ext_resource type="Texture2D" uid="uid://coqxh1iqwmt3d" path="res://new game art/background.png" id="1_1jydy"]
+
+[sub_resource type="StyleBoxTexture" id="StyleBoxTexture_7nxku"]
+texture = ExtResource("1_1jydy")
+
+[node name="Minesweeper" type="Node2D"]
+
+[node name="Panel" type="Panel" parent="."]
+offset_right = 400.0
+offset_bottom = 640.0
+theme_override_styles/panel = SubResource("StyleBoxTexture_7nxku")
